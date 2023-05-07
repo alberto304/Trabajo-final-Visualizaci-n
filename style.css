@@ -1,0 +1,24 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.metadato{
+  font-family: "Courier New";
+  border-style: dotted;
+  background-color:azure;
+  margin-left: 40px;
+  margin-right: 80px;
+}
+
+.negrita{
+  font-weight: bold;
+}
+
+.tit{
+  font-weight: bold;
+}
+
+#viz1,#viz2,#viz3{
+  width: 80%;
+  height: 300px;
+  }
